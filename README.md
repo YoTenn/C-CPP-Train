@@ -1,0 +1,1 @@
+In this repository, I'm simply practicing code structure and algorithms in the C/C++ programming language.
